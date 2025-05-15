@@ -4,6 +4,9 @@ Autor: Bryan Terán
 
 Fecha: 15/05/2025
 
+![Chico usando un ordenador](https://github.com/Brytec25/PEC3_Manovich_Reloaded/blob/6454cc3962dcaa19ec3c843eed3f14246ccf83e1/image_1.png?raw=true)
+Imagen generada por el autor utilizando Stable Diffusion (software de generación de imágenes por IA).
+
 ## Planteamiento
 En el contexto de la cultura digital contemporánea, el software no solo funciona como herramienta técnica, sino que también actúa como agente de transformación cultural y estética. Tal como plantea **Lev Manovich** en *El software toma el mando*, asistimos a un escenario donde los medios tradicionales se reconfiguran a través de nuevas lógicas computacionales, dando lugar a formas híbridas que no se limitan a remediar lo anterior, sino que lo superan.
 
@@ -91,3 +94,4 @@ En la elaboración de este ensayo se ha utilizado inteligencia artificial como h
 
 - **Búsqueda de información y fuentes**: Se emplearon herramientas de IA para localizar referencias académicas, artículos y recursos digitales relacionados con el tema.
 - **Corrección ortográfica, gramatical y de estilo**: Se utilizó IA para revisar la redacción, detectar errores ortográficos y gramaticales, asegurando claridad y coherencia en el texto.
+- Generación de contenido visual: Se empleó el software Stable Diffusion para crear una imagen original que ilustra uno de los conceptos tratados. La imagen fue generada por el propio autor mediante un prompt descriptivo, utilizando una versión local del programa basada en modelos de código abierto.
