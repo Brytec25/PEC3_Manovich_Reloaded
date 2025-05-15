@@ -37,6 +37,10 @@ En este nuevo escenario, el usuario no es tanto un creador como un **editor o cu
 En su libro *El software toma el mando*, **Lev Manovich** señala herramientas como **Google Earth** o **After Effects** como ejemplos de medios híbridos, ya que combinan mapas, imágenes satelitales, diseño interactivo, edición de video y efectos visuales en una misma interfaz. En todos esos casos, el usuario cumple un rol activo, manipulando los elementos y tomando decisiones.
 
 **Stable Diffusion**, aunque también mezcla medios visuales, textuales y lógicos, representa un paso más allá. La lógica de interacción cambia por completo, y con ello también la noción de creación.
+Como podemos ver, estamos ya ante un software que **produce cultura**, con una autonomía que reconfigura el rol del humano. Seguimos presentes, sí, pero cada vez más al margen de la creación, ejecutando un rol por tiempo definido como editores o curadores.
+
+**Stable Diffusion reemplaza la norma de creación tradicional y la transforma.**  
+Nos obliga a repensar qué es una obra, quién la crea y cómo entendemos hoy la autoría.
 
 ## Klingai
 
@@ -87,8 +91,3 @@ En la elaboración de este ensayo se ha utilizado inteligencia artificial como h
 
 - **Búsqueda de información y fuentes**: Se emplearon herramientas de IA para localizar referencias académicas, artículos y recursos digitales relacionados con el tema.
 - **Corrección ortográfica, gramatical y de estilo**: Se utilizó IA para revisar la redacción, detectar errores ortográficos y gramaticales, asegurando claridad y coherencia en el texto.
-
-Como podemos ver, estamos ya ante un software que **produce cultura**, con una autonomía que reconfigura el rol del humano. Seguimos presentes, sí, pero cada vez más al margen de la creación, ejecutando un rol por tiempo definido como editores o curadores.
-
-**Stable Diffusion reemplaza la norma de creación tradicional y la transforma.**  
-Nos obliga a repensar qué es una obra, quién la crea y cómo entendemos hoy la autoría.
